@@ -1,4 +1,4 @@
-# 论文版本演进管理 (Paper Version Manager)
+﻿# 论文版本演进管理 (Paper Version Manager)
 
 > 📄 A skill for managing the full lifecycle of academic paper versions — from version lineage visualization to quality scoring, changelog generation, safe baseline management, and decision log auditing.
 
@@ -73,3 +73,7 @@ paper-version-manager/
 
 **用户：** "审计一下所有决策在当前版本的落实情况"
 → 使用 `references/decision-log.md` 中的审计方法逐项核查
+
+---
+
+作者：刘楠
